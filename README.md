@@ -1,6 +1,49 @@
 # Awesome LabVIEW [![awesome]](https://github.com/sindresorhus/awesome)
 
-
 [awesome]: https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge-flat.svg
 
+[LabView™](https://www.ni.com/en-us/shop/labview.html) is a graphical dataflow programming environment by [NI/National Instruments](https://www.ni.com/nl-be.html), used predominantly for data acquisition and testing.
 
+## LabView documentation
+
+- [NI Docs: LabView](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabView
+- [LabView Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabView ecosystem
+
+## Package & dependency management
+
+- [VIPM](https://www.vipm.io/) - VI Package Manager, the main source to get your dependencies.
+- [NIPM Feed Manager](https://github.com/allenh-ni/nipm-feed-manager-gui-labview) - Feed manager for NI Package Manager
+- [A Git Based Dependency Management. For LabVIEW?](https://felipekb.com/2022/02/16/a-git-based-dependency-management-for-labview/) - Blog about using git to manage LabView dependencies
+
+## Code Quality
+
+- [VI Analyzer](https://www.ni.com/en-us/support/downloads/software-products/download.labview-vi-analyzer-toolkit.html#411412) - Static Analysis tool for VIs
+- [VI Analyzer Enthusiasts](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/ct-p/7021) - Section of NI Forum specialized in VI Analyzer
+
+## Project documentation
+
+- [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabView projects
+
+## DevOps / Version Control / CI / CD
+
+- [LabView GitEnv](https://github.com/joerg/LabViewGitEnv) - Scripts to integrate git and LabView Merge and Compare
+- [DiffVI](https://github.com/ni/niveristand-custom-device-build-tools/tree/main/lv/operations/DiffVI) - Library to produce a diff report of VIs, e.g. for use in pull requests
+- [LabView Git Diff Scripts](https://github.com/ni/labview-git-diff-scripts) - Powershell cmdlets to compute diffs of VIs 
+- [LabView + Docker + Windows = Match?](https://felipekb.com/2020/09/09/labview-docker-windows-match/)
+
+## User Groups, Forums, and Blogs
+
+- [NI Community](https://forums.ni.com/) - NI Forums
+- [ALA: Alliance of LabView Architects](http://www.alarchitects.org/blog/) - Allicance of leading LabView architects
+- [Felipe's Thoughts](https://felipekb.com/) - Blog about LabView development
+- [LAVAG: LabView Advanced Virtual Architects](https://lavag.org/) - Forum about LabView
+
+## YouTube
+
+- [LabView Advantage](https://www.youtube.com/c/LabVIEWADVANTAGE)
+- [Hampel Software Engineering](https://www.youtube.com/c/HampelSoftwareEngineering)
+- [Tom's Labview Adventure](https://www.youtube.com/c/TomsLabVIEWAdventure)
+
+## Misc
+
+- [Awesome WebVIs](https://github.com/rajsite/awesome-webvis) - Awesome list about WebVIs.
