@@ -1,7 +1,7 @@
 name: awesome-bot
 
 on:
-  pull:
+  push:
     branches: [ '*' ]
   pull_request:
     branches: [ '*' ]
