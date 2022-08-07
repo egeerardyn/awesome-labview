@@ -43,6 +43,10 @@
 - [LabView Advantage](https://www.youtube.com/c/LabVIEWADVANTAGE)
 - [Hampel Software Engineering](https://www.youtube.com/c/HampelSoftwareEngineering)
 - [Tom's Labview Adventure](https://www.youtube.com/c/TomsLabVIEWAdventure)
+- [Multics Ltd.](https://www.youtube.com/channel/UCeiKjAB72PcjJrTuf46IZqw)
+- [LabView Exercises](https://www.youtube.com/channel/UCu9k4LbZM6Qxx-Pqkjn00_w)
+- [Industrial IT and Automation](https://www.youtube.com/c/IndustrialITandAutomation)
+- [NI Apps](https://www.youtube.com/c/NIApps)
 
 ## Misc
 
