@@ -1,6 +1,6 @@
-# Awesome LabVIEW [![awesome]](https://github.com/sindresorhus/awesome)
+# Awesome LabVIEW 
 
-[awesome]: https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge-flat.svg
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [LabView™](https://www.ni.com/en-us/shop/labview.html) is a graphical dataflow programming environment by [NI/National Instruments](https://www.ni.com/nl-be.html), used predominantly for data acquisition and testing.
 
