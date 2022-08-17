@@ -25,6 +25,7 @@
 
 - [VI Analyzer](https://www.ni.com/en-us/support/downloads/software-products/download.labview-vi-analyzer-toolkit.html#411412) - Static Analysis tool for VIs
 - [VI Analyzer Enthusiasts](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/ct-p/7021) - Section of NI Forum specialized in VI Analyzer
+- [List of Community VI Analyzer Tests](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-Community-VI-Analyzer-Tests/ta-p/3501893)
 
 ## Project documentation
 
