@@ -1,4 +1,7 @@
 # Awesome LabVIEW [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome LabVIEW [![awesome]](https://github.com/sindresorhus/awesome)
+
+[awesome]: https://raw.githubusercontent.com/sindresorhus/awesome/d5832cebce13c2e91735c7ecf40bf26628042454/media/badge-flat.svg
 
 [LabView™](https://www.ni.com/en-us/shop/labview.html) is a graphical dataflow programming environment by [NI/National Instruments](https://www.ni.com/nl-be.html), used predominantly for data acquisition and testing.
 
@@ -24,6 +27,16 @@
 - [VI Analyzer](https://www.ni.com/en-us/support/downloads/software-products/download.labview-vi-analyzer-toolkit.html#411412) - Static Analysis tool for VIs.
 - [VI Analyzer Enthusiasts](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/ct-p/7021) - Section of NI Forum specialized in VI Analyzer.
 - [List of Community VI Analyzer Tests](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-Community-VI-Analyzer-Tests/ta-p/3501893) - List of VI Analyzer tests.
+- [NIPM Feed Manager](https://github.com/allenh-ni/nipm-feed-manager-gui-labview) - Feed manager for NI Package Manager
+- [A Git Based Dependency Management. For LabVIEW?](https://felipekb.com/2022/02/16/a-git-based-dependency-management-for-labview/) - Blog about using git to manage LabView dependencies
+- [GCentral](https://www.gcentral.org/home) - Re-usable LabView (G) code
+- [LabView Open Source](https://github.com/LabVIEW-Open-Source) - Github repos with Open Source LabView libraries
+
+## Code Quality
+
+- [VI Analyzer](https://www.ni.com/en-us/support/downloads/software-products/download.labview-vi-analyzer-toolkit.html#411412) - Static Analysis tool for VIs
+- [VI Analyzer Enthusiasts](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/ct-p/7021) - Section of NI Forum specialized in VI Analyzer
+- [LabView Class Dependency Viewer](https://labviewcraftsmen.com/tools.html)
 
 ## Project documentation
 
@@ -45,6 +58,11 @@
 - [Felipe's Thoughts](https://felipekb.com/) - Blog about LabView development.
 - [LAVAG: LabView Advanced Virtual Architects](https://lavag.org/) - Forum about LabView.
 - [Software Engineering for LabView](https://ekerry.wordpress.com/) - Blog focussing on LabView Software Engineering.
+- [ALA: Alliance of LabView Architects](http://www.alarchitects.org/blog/) - Allicance of leading LabView architects
+- [Felipe's Thoughts](https://felipekb.com/) - Blog about LabView development
+- [LAVAG: LabView Advanced Virtual Architects](https://lavag.org/) - Forum about LabView
+- [Software Engineering for LabView](https://ekerry.wordpress.com/) - Blog focussing on LabView Software Engineering
+- [LabView Craftsmen](http://www.labviewcraftsmen.com/) - Blog by John McBee on software craftsmanship, Agile and LabView.
 
 ## YouTube
 
@@ -55,6 +73,8 @@
 - [LabView Exercises](https://www.youtube.com/channel/UCu9k4LbZM6Qxx-Pqkjn00_w)
 - [Industrial IT and Automation](https://www.youtube.com/c/IndustrialITandAutomation)
 - [NI Apps](https://www.youtube.com/c/NIApps)
+- [LabView Wiki](https://www.youtube.com/c/LabVIEWWiki)
+- [VI Shots](https://www.youtube.com/c/VIShots)
 
 ## Misc
 
