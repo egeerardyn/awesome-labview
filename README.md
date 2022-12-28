@@ -9,6 +9,9 @@
 
 - [NI Docs: LabView](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabView.
 - [LabView Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabView ecosystem.
+- [NI Docs: LabView](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabView
+- [LabView Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabView ecosystem
+- [Hampel Software Knowledge Base](https://dokuwiki.hampel-soft.com/kb) - Lots of knowledge on HSE and LabView development.
 
 ## Frameworks & Design Patterns
 
@@ -36,11 +39,15 @@
 
 - [VI Analyzer](https://www.ni.com/en-us/support/downloads/software-products/download.labview-vi-analyzer-toolkit.html#411412) - Static Analysis tool for VIs
 - [VI Analyzer Enthusiasts](https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/ct-p/7021) - Section of NI Forum specialized in VI Analyzer
+- [VI Analyzer Toolkit Tests](
+https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-VI-Analyzer-Toolkit-Tests/ta-p/3510239) - List of tests that ship with VI Analyzer Toolkit
 - [LabView Class Dependency Viewer](https://labviewcraftsmen.com/tools.html)
 
 ## Project documentation
 
 - [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabView projects.
+- [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabView projects
+- [Clas Method Browser](https://www.mooregoodideas.com/mgi-library/class-method-browser/class-method-browser/) - Code completion methods of classes
 
 ## DevOps / Version Control / CI / CD
 
