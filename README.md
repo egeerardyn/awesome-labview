@@ -70,6 +70,7 @@ https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-VI-Analyzer-Toolkit-Tes
 - [LAVAG: LabView Advanced Virtual Architects](https://lavag.org/) - Forum about LabView
 - [Software Engineering for LabView](https://ekerry.wordpress.com/) - Blog focussing on LabView Software Engineering
 - [LabView Craftsmen](http://www.labviewcraftsmen.com/) - Blog by John McBee on software craftsmanship, Agile and LabView.
+- [G Idea Exchange (GIE) Community](https://forums.ni.com/t5/G-Idea-Exchange/idb-p/g-idea-exchange) - Space on the NI Forums to suggest ideas and contribute to ideas that would be implemented and supported by the LabVIEW community.
 
 ## YouTube
 
