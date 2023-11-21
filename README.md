@@ -7,10 +7,8 @@
 
 ## LabView documentation
 
-- [NI Docs: LabView](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabView.
+- [NI Docs: LabView](https://www.ni.com/docs/en-US/) - NI Documentation center.
 - [LabView Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabView ecosystem.
-- [NI Docs: LabView](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabView
-- [LabView Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabView ecosystem
 - [Hampel Software Knowledge Base](https://dokuwiki.hampel-soft.com/kb) - Lots of knowledge on HSE and LabView development.
 
 ## Frameworks & Design Patterns
@@ -46,7 +44,6 @@ https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-VI-Analyzer-Toolkit-Tes
 ## Project documentation
 
 - [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabView projects.
-- [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabView projects
 - [Clas Method Browser](https://www.mooregoodideas.com/mgi-library/class-method-browser/class-method-browser/) - Code completion methods of classes
 
 ## DevOps / Version Control / CI / CD
@@ -65,10 +62,6 @@ https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-VI-Analyzer-Toolkit-Tes
 - [Felipe's Thoughts](https://felipekb.com/) - Blog about LabView development.
 - [LAVAG: LabView Advanced Virtual Architects](https://lavag.org/) - Forum about LabView.
 - [Software Engineering for LabView](https://ekerry.wordpress.com/) - Blog focussing on LabView Software Engineering.
-- [ALA: Alliance of LabView Architects](http://www.alarchitects.org/blog/) - Allicance of leading LabView architects
-- [Felipe's Thoughts](https://felipekb.com/) - Blog about LabView development
-- [LAVAG: LabView Advanced Virtual Architects](https://lavag.org/) - Forum about LabView
-- [Software Engineering for LabView](https://ekerry.wordpress.com/) - Blog focussing on LabView Software Engineering
 - [LabView Craftsmen](http://www.labviewcraftsmen.com/) - Blog by John McBee on software craftsmanship, Agile and LabView.
 - [G Idea Exchange (GIE) Community](https://forums.ni.com/t5/G-Idea-Exchange/idb-p/g-idea-exchange) - Space on the NI Forums to suggest ideas and contribute to ideas that would be implemented and supported by the LabVIEW community.
 
